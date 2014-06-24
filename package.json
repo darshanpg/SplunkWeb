@@ -1,0 +1,28 @@
+{
+  "name": "SplunkWeb",
+  "version": "0.0.0",
+  "description": "Splunk Web Assignment",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshanpg/SplunkWeb.git"
+  },
+  "author": "Darshan Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshanpg/SplunkWeb/issues"
+  },
+  "homepage": "https://github.com/darshanpg/SplunkWeb",
+  "dependencies": {
+    "express": "^4.4.4",
+    "http": "0.0.0",
+    "logfmt": "^1.1.2",
+    "url": "^0.10.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
