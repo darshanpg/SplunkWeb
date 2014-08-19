@@ -1,7 +1,7 @@
 SplunkWeb
 =========
 
-Splunk Web Assignment
+Splunk Web Assignment - Live hosting at splunkweb.herokuapp.com
 
 Splunk 
 Software Engineer (frontend) Homework
